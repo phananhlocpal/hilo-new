@@ -4460,17 +4460,12 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
     "C:\\Users\\Surface\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
-=======
-    "C:\\Users\\USER\\.nuget\\packages\\": {}
->>>>>>> 960a83c (commit)
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\CustomerService\\CustomerService.csproj",
       "projectName": "CustomerService",
       "projectPath": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\CustomerService\\CustomerService.csproj",
@@ -4483,16 +4478,6 @@
       "configFilePaths": [
         "C:\\Users\\Surface\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-=======
-      "projectUniqueName": "C:\\Users\\USER\\OneDrive\\Desktop\\hilocinema-main (1)\\hilocinema-main\\Backend\\Services\\CustomerService\\CustomerService.csproj",
-      "projectName": "CustomerService",
-      "projectPath": "C:\\Users\\USER\\OneDrive\\Desktop\\hilocinema-main (1)\\hilocinema-main\\Backend\\Services\\CustomerService\\CustomerService.csproj",
-      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\OneDrive\\Desktop\\hilocinema-main (1)\\hilocinema-main\\Backend\\Services\\CustomerService\\obj\\",
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 960a83c (commit)
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4507,19 +4492,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-<<<<<<< HEAD
             "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\JwtAuthenticationManager\\JwtAuthenticationManager\\JwtAuthenticationManager.csproj": {
               "projectPath": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\JwtAuthenticationManager\\JwtAuthenticationManager\\JwtAuthenticationManager.csproj"
             },
             "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\MessageBroker\\MessageBrokerService\\MessageBrokerService.csproj": {
               "projectPath": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\MessageBroker\\MessageBrokerService\\MessageBrokerService.csproj"
-=======
-            "C:\\Users\\USER\\OneDrive\\Desktop\\hilocinema-main (1)\\hilocinema-main\\Backend\\JwtAuthenticationManager\\JwtAuthenticationManager\\JwtAuthenticationManager.csproj": {
-              "projectPath": "C:\\Users\\USER\\OneDrive\\Desktop\\hilocinema-main (1)\\hilocinema-main\\Backend\\JwtAuthenticationManager\\JwtAuthenticationManager\\JwtAuthenticationManager.csproj"
-            },
-            "C:\\Users\\USER\\OneDrive\\Desktop\\hilocinema-main (1)\\hilocinema-main\\Backend\\MessageBroker\\MessageBrokerService\\MessageBrokerService.csproj": {
-              "projectPath": "C:\\Users\\USER\\OneDrive\\Desktop\\hilocinema-main (1)\\hilocinema-main\\Backend\\MessageBroker\\MessageBrokerService\\MessageBrokerService.csproj"
->>>>>>> 960a83c (commit)
             }
           }
         }
@@ -4588,5 +4565,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\CustomerService\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

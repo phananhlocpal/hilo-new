@@ -3055,7 +3055,6 @@
             "rid": "win"
           }
         }
-<<<<<<< HEAD
       },
       "MessageBrokerService/1.0.0": {
         "type": "project",
@@ -3070,8 +3069,6 @@
         "runtime": {
           "bin/placeholder/MessageBrokerService.dll": {}
         }
-=======
->>>>>>> 960a83c (commit)
       }
     }
   },
@@ -8997,24 +8994,18 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
-<<<<<<< HEAD
     },
     "MessageBrokerService/1.0.0": {
       "type": "project",
       "path": "../../MessageBroker/MessageBrokerService/MessageBrokerService.csproj",
       "msbuildProject": "../../MessageBroker/MessageBrokerService/MessageBrokerService.csproj"
-=======
->>>>>>> 960a83c (commit)
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.1",
       "EntityFramework >= 6.5.1",
-<<<<<<< HEAD
       "MessageBrokerService >= 1.0.0",
-=======
->>>>>>> 960a83c (commit)
       "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 8.0.7",
       "Microsoft.EntityFrameworkCore >= 8.0.7",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.7",
@@ -9029,17 +9020,12 @@
     ]
   },
   "packageFolders": {
-<<<<<<< HEAD
     "C:\\Users\\Surface\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
-=======
-    "C:\\Users\\USER\\.nuget\\packages\\": {}
->>>>>>> 960a83c (commit)
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\ScheduleService.csproj",
       "projectName": "ScheduleService",
       "projectPath": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\ScheduleService.csproj",
@@ -9052,16 +9038,6 @@
       "configFilePaths": [
         "C:\\Users\\Surface\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-=======
-      "projectUniqueName": "C:\\Users\\USER\\OneDrive\\Desktop\\hilocinema-main (1)\\hilocinema-main\\Backend\\Services\\ScheduleService\\ScheduleService.csproj",
-      "projectName": "ScheduleService",
-      "projectPath": "C:\\Users\\USER\\OneDrive\\Desktop\\hilocinema-main (1)\\hilocinema-main\\Backend\\Services\\ScheduleService\\ScheduleService.csproj",
-      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\OneDrive\\Desktop\\hilocinema-main (1)\\hilocinema-main\\Backend\\Services\\ScheduleService\\obj\\",
-      "projectStyle": "PackageReference",
-      "configFilePaths": [
-        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 960a83c (commit)
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9075,15 +9051,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-<<<<<<< HEAD
           "projectReferences": {
             "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\MessageBroker\\MessageBrokerService\\MessageBrokerService.csproj": {
               "projectPath": "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\MessageBroker\\MessageBrokerService\\MessageBrokerService.csproj"
             }
           }
-=======
-          "projectReferences": {}
->>>>>>> 960a83c (commit)
         }
       },
       "warningProperties": {
@@ -9180,5 +9152,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\ScheduleService\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

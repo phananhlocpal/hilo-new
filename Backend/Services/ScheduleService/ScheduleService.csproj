@@ -33,11 +33,8 @@
     <Folder Include="Models\" />
   </ItemGroup>
 
-<<<<<<< HEAD
   <ItemGroup>
     <ProjectReference Include="..\..\MessageBroker\MessageBrokerService\MessageBrokerService.csproj" />
   </ItemGroup>
 
-=======
->>>>>>> 960a83c (commit)
 </Project>

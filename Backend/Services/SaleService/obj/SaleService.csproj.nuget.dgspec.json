@@ -1,7 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
     "C:\\Users\\Surface\\source\\repos\\HiloCinema\\Backend\\Services\\SaleService\\SaleService.csproj": {}
   },
   "projects": {
@@ -20,22 +19,6 @@
         "configFilePaths": [
           "C:\\Users\\Surface\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-=======
-    "C:\\Users\\USER\\OneDrive\\Desktop\\hilocinema-main (1)\\hilocinema-main\\Backend\\Services\\SaleService\\SaleService.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\USER\\OneDrive\\Desktop\\hilocinema-main (1)\\hilocinema-main\\Backend\\Services\\SaleService\\SaleService.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\OneDrive\\Desktop\\hilocinema-main (1)\\hilocinema-main\\Backend\\Services\\SaleService\\SaleService.csproj",
-        "projectName": "SaleService",
-        "projectPath": "C:\\Users\\USER\\OneDrive\\Desktop\\hilocinema-main (1)\\hilocinema-main\\Backend\\Services\\SaleService\\SaleService.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\OneDrive\\Desktop\\hilocinema-main (1)\\hilocinema-main\\Backend\\Services\\SaleService\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
->>>>>>> 960a83c (commit)
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -67,7 +50,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-<<<<<<< HEAD
             "Microsoft.Extensions.Logging.Abstractions": {
               "target": "Package",
               "version": "[8.0.0, )"
@@ -147,19 +129,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-=======
->>>>>>> 960a83c (commit)
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[12.0.1, )"
             },
-<<<<<<< HEAD
             "Microsoft.AspNetCore.Session": {
               "target": "Package",
               "version": "[2.2.0, )"
             },
-=======
->>>>>>> 960a83c (commit)
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.7, )"
@@ -174,7 +151,6 @@
               "target": "Package",
               "version": "[8.0.7, )"
             },
-<<<<<<< HEAD
             "Microsoft.Extensions.Caching.Memory": {
               "target": "Package",
               "version": "[8.0.0, )"
@@ -183,19 +159,14 @@
               "target": "Package",
               "version": "[8.0.8, )"
             },
-=======
->>>>>>> 960a83c (commit)
             "RabbitMQ.Client": {
               "target": "Package",
               "version": "[6.8.1, )"
             },
-<<<<<<< HEAD
             "StackExchange.Redis": {
               "target": "Package",
               "version": "[2.8.0, )"
             },
-=======
->>>>>>> 960a83c (commit)
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"

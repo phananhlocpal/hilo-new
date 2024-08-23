@@ -11,8 +11,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-<<<<<<< HEAD
-=======
+    <!-- Xóa các dấu hiệu xung đột và giữ lại hoặc thêm mới các phần cần thiết -->
     <Compile Remove="Service\**" />
     <Content Remove="Service\**" />
     <EmbeddedResource Remove="Service\**" />
@@ -20,8 +19,12 @@
   </ItemGroup>
 
   <ItemGroup>
->>>>>>> 960a83c (commit)
     <Content Include="Properties\launchSettings.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\" />
+    <Folder Include="Service\" />
   </ItemGroup>
 
   <ItemGroup>
@@ -37,14 +40,6 @@
   </ItemGroup>
 
   <ItemGroup>
-<<<<<<< HEAD
-    <Folder Include="Models\" />
-    <Folder Include="Service\" />
-  </ItemGroup>
-
-  <ItemGroup>
-=======
->>>>>>> 960a83c (commit)
     <ProjectReference Include="..\..\JwtAuthenticationManager\JwtAuthenticationManager\JwtAuthenticationManager.csproj" />
   </ItemGroup>
 
